@@ -7,7 +7,7 @@ It is all organized by time and date. The user is allowed to edit and implement 
 
 
 
-
+https://github.com/VladSimonyan/Daily-Planner.git
 
 
 
